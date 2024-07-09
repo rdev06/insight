@@ -1,0 +1,11 @@
+{
+  "name": "@rdev06/insight",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "bson": "^6.4.0",
+    "lodash.omit": "^4.5.0"
+  }
+}
