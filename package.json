@@ -5,7 +5,6 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "bson": "^6.4.0",
-    "lodash.omit": "^4.5.0"
+    "bson": "^6.4.0"
   }
 }
